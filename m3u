@@ -89,16 +89,16 @@ https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
 #EXTINF:-30 tvg-logo="https://logowik.com/content/uploads/images/7354-cartoonito.webp" group-title="INFANTIL", Cartunito | HD
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://latinamedios.com/wp-content/uploads/2019/09/LOGO-LATINA-TV-300-300x200.png" group-title="PERU", Latina tv | SD
+#EXTINF:-31 tvg-logo="https://latinamedios.com/wp-content/uploads/2019/09/LOGO-LATINA-TV-300-300x200.png" group-title="PERU", Latina tv | SD
 https://master.tucableip.com/live/tvlatinamontero/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.elnuevodia.com/resizer/jcjrG7WrqrRHRvwwDcwX4LoVEt8=/829x0/filters:quality(75):format(jpeg):focal(781x419:791x409)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/5GAYARXGYVDPRMG4Q3MOXQGOW4.jpg" group-title="PUERTO RICO", Mega tv | HD
+#EXTINF:-32 tvg-logo="https://www.elnuevodia.com/resizer/jcjrG7WrqrRHRvwwDcwX4LoVEt8=/829x0/filters:quality(75):format(jpeg):focal(781x419:791x409)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/5GAYARXGYVDPRMG4Q3MOXQGOW4.jpg" group-title="PUERTO RICO", Mega tv | HD
 https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/.m3u8
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/587/306/png-clipart-bein-sports-1-bein-sports-2-streaming-media-bein-purple-television.png" group-title="DEPORTES", Bein Sport | HD
+#EXTINF:-33 tvg-logo="https://e7.pngegg.com/pngimages/587/306/png-clipart-bein-sports-1-bein-sports-2-streaming-media-bein-purple-television.png" group-title="DEPORTES", Bein Sport | HD
 https://siloh-mcdn.plutotv.net/lilo/production/BEIN/ES/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://puruwatv.com/wp-content/uploads/2018/04/logo.png" group-title="ECUADOR", PURUWA TV  | SD
+#EXTINF:-34 tvg-logo="https://puruwatv.com/wp-content/uploads/2018/04/logo.png" group-title="ECUADOR", PURUWA TV  | SD
 https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/chunklist_w2102122426.m3u8
 
 #EXTINF:-1 tvg-logo="https://blixtv.com/images/teleamazonas.png" group-title="ECUADOR", Teleamazonas | SD
@@ -118,6 +118,9 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 #EXTINF:-3 tvg-logo="https://paraguaype.com/wp-content/uploads/2016/07/tvs-encarnacion-televisora-del-sur-en-vivo-online.jpg" group-title="PARAGUAY", TVS
 https://tigocloud.desdeparaguay.net/tvs/tvs/chunklist_w821417915.m3u8?k=1d25209afd7c9b0e4898d35c8295d449ff87b42c53ea4da38aae4d2d9614c9a7&exp=1611679347
+
+#EXTINF:-23 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY74DCbCMHEUoUgy08KZdB-680qTwMt8QVQLqgUicYDOwqZtd4vo3gp5eo3hLd0ZXJqYU&usqp=CAU" group-title="PARAGUAY", ESTACIÓN CRISTAL TV
+https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://stcotvfoco.com.br/2013/02/Cartoon-Network.png" group-title="INFANTIL", Cartoon NET | HD
 https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
@@ -254,6 +257,9 @@ https://stream.ads.ottera.tv/cl/230425ch44p3ok3v0i85r3c7hg/854x480_1311820_2_f.m
 #EXTINF:-1 tvg-id="LIM TV .mx" tvg-name="LIM TV  (HD)" tvg-logo="https://www.coolstreaming.us/img/ch/ima32806760957.jpg" group-title="MEXICO",LIM TV  (HD)
 https://live.limplay.ml/limtv.m3u8
 
+#EXTINF:-26 tvg-logo="https://goradio.com.py/wp-content/uploads/2020/06/Logo_Mobile_naranja.png" group-title="MUSICA", GO TV
+https://tigocloud.desdeparaguay.net/gotv/gotv/chunklist_w1939119464.m3u8
+
 #EXTINF:-1 tvg-id="Mi tv.mx" tvg-name="Mi tv (HD)" tvg-logo="https://www.mitv-hd.com/images/logo.png" group-title="MUSICA",Mi tv  (HD)
 https://ss2.domint.net:3204/mitv_str/mitv/playlist.m3u8
 
@@ -302,6 +308,9 @@ https://59ef525c24caa.streamlock.net/ARBtv/teleplus/playlist.m3u8
 #EXTINF:-121 tvg-logo="https://i.postimg.cc/P5dgBKmS/telesurcr.png" group-title="COSTA RICA", TELESUR
 https://59ef525c24caa.streamlock.net/telesur/telesur/playlist.m3u8
 
+#EXTINF:-36 tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="DEPORTES", BEIN SPORTS XTRA
+https://i.mjh.nz/PlutoTV/5df975e2b27cf5000921c102-alt.m3u8
+
 #EXTINF:-122 tvg-logo="https://img.asmedia.epimg.net/resizer/xjFGduUDe9tcl3j7HgyVNbWq20M=/360x203/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/EW3U7NAIBNCOZCYGAGD3NYY54A.jpg" group-title="MEXICO", N mas GUADALAJARA
 https://channel04dai-notusa.akamaized.net/hls/live/2029754/event01/index.m3u8?hdnea=st=1683255207~exp=1683255507~acl=*~id=393d86a4-2834-4a3e-b967-00c953f481a1~hmac=31c9eddf90bb623641d8ce87da969ad074109c98fceb2bc3c73c7611d28c7f1c&originpath=/linear/hls/pa/event/3UsAIXvJTlG81i3EGHF8ZA/stream/bf113414-a5a6-4499-9fc6-f55258f953e7:CHS/master.m3u8
 
@@ -323,8 +332,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q2WEX34.png" group-title="NOTICIAS", Deutsche Welle | SD
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="NOTICIAS", France 24 | HD
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-36 tvg-logo="https://cdn.sescoops.com/wp-content/uploads/2017/03/fight.jpg" group-title="DEPORTES", FIGHT NETWORK
+https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 
 #EXTINF:-1, RUNTIME CINE | HD
 https://run-rt-es.otteravision.com/run/rt_es/rt_es.m3u8
@@ -370,6 +379,12 @@ https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vIFRrCq.png" group-title="GUATEMALA", Canal Plus Guatemala | SD
 http://streaminglivehd.com:1935/8098/8098/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="(sin tvg-id)" tvg-name="Jalisco TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/c7. png" group-title="MEXICO",Jalisco TV
+https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/animal.png" grupo -title="DOCUMENTALES" agente de usuario="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT", Animal Planet
+http://208.88.246.11:3473/transco9/9489APL/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_RTVE.svg/800px-Logo_RTVE.svg.png" group-title="ESPAÑA", RTVE | HD
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_576.m3u8
