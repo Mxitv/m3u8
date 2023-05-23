@@ -2,13 +2,13 @@
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/11/02/15/37/0544148.jpg"group-title="PELICULAS" type="movie", Avatar2 | HD
 https://cloclo61.cloud.mail.ru/videowl/0p/Z1lOUy9ramZvMWJHV00=.m3u8?double_encode=1
 
-#EXTINF:-2 tvg-logo="https://i.imgur.com/eGvLDVR.png" group-title="MEXICO", Canal 10 Chetumal | HD
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-125 tvg-logo="https://www.tvmundogt.com/wp-content/uploads/2020/10/5.jpeg" group-title="MEXICO", MUNDO TV | SD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4871&amp;avod=1&amp;coppa=0&amp;is_lat=0&amp;dnt=0&amp;us_privacy=1YN-&amp;did=e4ce72c53dd087e8c9bcf30074bacd21&amp;app_bundle=com.tvazteca.live&amp;app_store_url=https%3A%2F%2Fwww.ottera.tv%2Fdevices&amp;app_domain=ottera.tv&amp;app_name=tvazteca&amp;custom_targeting=web&amp;custom_4=internal&amp;h=720&amp;w=1280&amp;content_channel=tvazteca&amp;content_dist_name=internal&amp;device_make=&amp;device_model=&amp;preferred_language=EN&amp;consent=1&amp;gdpr=0&amp;custom_12=0&amp;custom_15=es&amp;custom_16=EN&amp;custom_17=en&amp;site_page=ottera.
 
 #EXTINF:-3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="ECUADOR", RTS TV | SD
 https://d1qovwsteln4u.cloudfront.net/hls/rts_480.m3u8
 
-#EXTINF:-4 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Ecuavisa_logo_2008.png/220px-Ecuavisa_logo_2008.png" group-title="ECUADOR", Ecuavisa  | HD
+#EXTINF:-4 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6hH0rAi7O2NKW00pjGfUxXBCgAQdXjfS4AbA4bJHjobkxKp1OHfBx_mbINMHJN2z7KYk&usqp=CAU" group-title="ECUADOR", Ecuavisa
 https://mdstrm.com/live-stream-playlist/6089d0a7f61e11081f8c832a.m3u8
 
 #EXTINF:-5 tvg-logo="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded400/2433639/2433639-1570460635924-19694980d6844.jpg" group-title="ECUADOR", Magestad tv | SD
@@ -371,8 +371,8 @@ https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/chunklist_w2112
 #EXTINF:-124 tvg-logo="https://i.imgur.com/oaxSwdU.png" group-title="PERU", TV Peru (Alt) | SD
 http://cdnh4.iblups.com/hls/irtp.m3u8
 
-#EXTINF:-125 tvg-logo="https://www.tvmundogt.com/wp-content/uploads/2020/10/5.jpeg" group-title="MEXICO", MUNDO TV | SD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4871&amp;avod=1&amp;coppa=0&amp;is_lat=0&amp;dnt=0&amp;us_privacy=1YN-&amp;did=e4ce72c53dd087e8c9bcf30074bacd21&amp;app_bundle=com.tvazteca.live&amp;app_store_url=https%3A%2F%2Fwww.ottera.tv%2Fdevices&amp;app_domain=ottera.tv&amp;app_name=tvazteca&amp;custom_targeting=web&amp;custom_4=internal&amp;h=720&amp;w=1280&amp;content_channel=tvazteca&amp;content_dist_name=internal&amp;device_make=&amp;device_model=&amp;preferred_language=EN&amp;consent=1&amp;gdpr=0&amp;custom_12=0&amp;custom_15=es&amp;custom_16=EN&amp;custom_17=en&amp;site_page=ottera.
+#EXTINF:-125 tvg-logo="https://i.imgur.com/eGvLDVR.png" group-title="MEXICO", Canal 10 Chetumal | HD
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
 #EXTINF:-126 tvg-logo="https://www.atv.pe/wp-content/themes/albavision-theme/img/logo.png" group-title="PERU", ATV | SD
 https://atvperu.akamaized.net/hls/live/2100630/atv/master_480.m3u8
@@ -401,14 +401,17 @@ https://panel.tvstream.cl:1936/8034/8034/chunklist_w1244170437.m3u8?WebM3UCL
 #EXTINF:-134 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR6pwd4ddbpHbDaa0U1Xhk_RiikwmFDXc5Y9nhps4Za0F-6CCVxLAKxp542lW34Kg151Y&usqp=CAU" group-title="ECUADOR", INFINITA TV | HD
 https://s2.tvdatta.com:3753/hybrid/play.m3u8
 
-#EXTINF:-1 group-title="ECUADOR", TC ECU | HD
-https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl7KsPHkNiPEIucgDhD_LwyIwwPgi4AZSLAFW4C821sGc)/dm/3/x7wijay/s/live-2.m3u8#cell=lnyc
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/variedtv_320.jpg" group-title="INFANTIL", Varied Tv | HD
+https://6362ca6f1fc28.streamlock.net/8066/8066/chunklist_w1488662887.m3u8
 
 #EXTINF:-1  tvg-logo="https://fmmundo.com/wp-content/uploads/2022/04/Logo-Fm-Mundo-radio-copy.png" group-title="ECUADOR", FM MUNDO TV | HD
 https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
 
 #EXTINF:-1 group-title="COSTA RICA", Multizonas tv | HD
 https://cloudvideo.servers10.com:8081/8214/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/04/bolivision.png" group-title="BOLIVIA", BOLIVISION | HD
+https://nedbolivision.akamaized.net/hls/live/2101283/bolivision/master.m3u8
 
 #EXTINF:-1,CINCO TV | HD
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
@@ -428,7 +431,7 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bNXH4cj.png" group-title="DEPORTES", Real Madrid TV | SD
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FTLjroU.png" group-title="ESPAÑA", Sevilla FC | SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FTLjroU.png" group-title="DEPORTES", Sevilla FC | SD
 https://streamamg-sevil01.akamaized.net/hls/live/2039253/0_wzckw85c/master.m3u8?hdnea=st=1682690802~exp=1682691102~acl=/hls/live/2039253/0_wzckw85c/master.m3u8*~hmac=aaa34c5529c09cda1f730fcb8a95ea525704e2978bc7d95323530a2a1e462f10
 
 #EXTINF:-1 tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2021/03/America_TV_SAS_logo.jpg" group-title="ESPAÑA", AMERICA TV | HD
@@ -2114,4 +2117,24 @@ https://tgdownloads.dltelegram.workers.dev/1001886225227/28765
 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/x6wzZqHYdoMMQre7k5qGh6wyeba.jpg",Las Vueltas del Amor(2022) 
 https://tgdownloads.dltelegram.workers.dev/1001886225227/28764
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://i.postimg.cc/hGWRPMRB/ foto-2023-02-26-13-03-31.jpg",Arma letal 4 | Arma letal 4 (1998) 
+https://tgdownloads.dltelegram.workers.dev/1001829780398/45704
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/hA2ple9q4qnwxp3hKVNhroipsir.jpg ",Mad Max 4: Furia En La Carretera (2015) 
+https://tgdownloads.dltelegram.workers.dev/1001829780398/57016
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/ p/w500/j4HTorvJdGOuIgGyE56fMCLmcCg.jpg",Transformers: La película (1986) 
+https://tgdownloads.dltelegram.workers.dev/1001829780398/57915
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t /p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",TITANIC (1997) 
+https://tgdownloads.dltelegram.workers.dev/1001886225227/2342
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//lyaS7S4emzEaYUcSnCvyqfJpOcA.jpg",La Brújula Dorada 
+https://tgdownloads.dltelegram.workers.dev/1001886225227/6777
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/ p/w500//8HCCYAIocXxMKn7J9yQfDX1vBM5.jpg",Camino de la Venganza | A la antigua (2023) 
+https://tgdownloads.dltelegram.workers.dev/1001829780398/60895
+
+
 
