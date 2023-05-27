@@ -1577,7 +1577,7 @@ http://144.217.70.79/VODS-M/1080P/Godzilla%20vs%20Mothra%201992.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/v8ax79K6TZEnMqSS5ePrNCnrK8R.jpg" group-title="PELICULAS" type="movie", Dreamland (2019) 
 http://144.217.70.79/VODS-M/1080P/Dreamland%202019.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/ w500/wQmmJi5ypfHH2boXrQBmsep7qb2.jpg" group-title="PELICULAS" type="movie", Dead Man Walking (1995) 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA4Mzc4Mjg5OV5BMl5BanBnXkFtZTYwNjg4OTQ5._V1_.jpg" group-title="PELICULAS" type="movie", Dead Man Walking (1995) 
 http://144.217.70.79/VODS-M/1080P/Dead%20Man%20Walking%201995.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9Azi1GBNj3gPPwmQWAMcATg7JOl.jpg" group-title="PELICULAS" type="movie", Elektra (2005) 
@@ -1604,8 +1604,7 @@ http://144.217.70.79/VODS-M/1080P/Spider -Man%20Far%20from%20Home%202019.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg" group-title="PELICULAS" type="movie", Spider- Hombre de regreso a casa (2017) 
 http://144.217.70.79/VODS-M/1080P/Spider-Man%20Homecoming%202017.mkv 
 
-#EXTINF:-1 tvg-logo="https:// image.tmdb.org/t/p/w500/3sLz2yv6vBDWqBbd8rdnNeoJ2kJ.jpg" group-title="PELICULAS" type="movie" , The Witcher La pesadilla del lobo (2021) 
-http://144.217.70.79/VODS-M/1080P/The%20Witcher%20Nightmare %20of%20the%20Wolf%202021.mkv 
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",Super Mario Bros: La película (2023)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wJkkkG4ditqNzlua0oJzoaICGiz.jpg" group-title="PELICULAS" type="movie", Dan en la vida real (2007) 
 http://144.217.70.79/VODS-M/1080P/Dan%20in%20Real%20Life%202007.mkv 
@@ -2102,7 +2101,7 @@ http://144.217.70.79/VODS-M/1080P/Jurassic%20Park%201993.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oQXj4NUfS3r3gHXtDOzcJgj1lLc.jpg"group-title="PELICULAS" type="movie" , Jurassic Park III (2001) 
 http://144.217.70.79/VODS-M/1080P/Jurassic%20Park%20III%202001.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jElpCJkSaRPYwIMwZY28gOKV7BK.jpg" type="movie" , Jurassic park II the lost world (1997) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jElpCJkSaRPYwIMwZY28gOKV7BK.jpg" group-title="PELICULAS" type="movie" , Jurassic park II the lost world (1997) 
 http://144.217.70.79/VODS-M/1080P/Jurassic%20park%20II%20the%20lost%20world%201997.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wQ53sO5n9LCFbssV3oQ4CuajL1L.jpg"group-title="PELICULAS" type="movie" , Aliens (1986) 
@@ -2257,7 +2256,7 @@ http://144.217.70.79/VODS-M/1080P/The%20king%202019.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/osjexM9Yol8UwdTr5fce5zJkyvy.jpg"group-title="PELICULAS" type="movie" , Three Violent People (1956) 
 http://144.217.70.79/VODS-M/1080P/Three%20Violent%20People%201956.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mi5VN4ww0JZgRFJIaPxxTGKjUg7.jpg" type="movie" , The art of racing in the rain (2019) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mi5VN4ww0JZgRFJIaPxxTGKjUg7.jpg"group-title="PELICULAS" type="movie", The art of racing in the rain (2019) 
 http://144.217.70.79/VODS-M/1080P/The%20art%20of%20racing%20in%20the%20rain%202019.mp4 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cEr3S3Atr4eRlHmMOA1GvaX0f4p.jpg"group-title="PELICULAS" type="movie" , Rattlesnake (2019) 
@@ -2541,7 +2540,7 @@ http://144.217.70.79/VODS-M/1080P/Lego%20batman%20family%20matters%202019.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7SC793qtORB6YL4mu0F5o3hfjDQ.jpg"group-title="PELICULAS" type="movie" , The Return Of Jafar (1994) 
 http://144.217.70.79/VODS-M/1080P/The%20Return%20Of%20Jafar%201994.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500"group-title="PELICULAS" type="movie" , Born In East L) 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM1Njk5OTc4N15BMl5BanBnXkFtZTYwMTc0NDM5._V1_.jpg"group-title="PELICULAS" type="movie" , Born In East L) 
 http://144.217.70.79/VODS-M/1080P/Born%20In%20East%20L.A.%201987.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kTH7qEyvdDYMoQraQZm3LFKCge3.jpg"group-title="PELICULAS" type="movie" , Aladdin And The King Of Thieves (1996) 
@@ -2655,7 +2654,7 @@ http://144.217.70.79/VODS-M/1080P/Long%20shot%202019.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uORr2GXQnyqgBOg6tVsRCJD2qxc.jpg"group-title="PELICULAS" type="movie" , Escape from Alcatraz (1979) 
 http://144.217.70.79/VODS-M/1080P/Escape%20from%20Alcatraz%201979.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1II9kMjOuho3pnEvxkpx7e3ozOO.jpg" type="movie" , A Perfect World (1993) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1II9kMjOuho3pnEvxkpx7e3ozOO.jpg" group-title="PELICULAS" type="movie" , A Perfect World (1993) 
 http://144.217.70.79/VODS-M/1080P/A%20Perfect%20World%201993.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cVhe15rJLRjolunSWLBN6xQLyGU.jpg"group-title="PELICULAS" type="movie" , Fighting with my family (2019) 
@@ -2664,10 +2663,10 @@ http://144.217.70.79/VODS-M/1080P/Fighting%20with%20my%20family%202019.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jhTVNBVkdS4Wf6NXYA9kRKQU3YM.jpg"group-title="PELICULAS" type="movie" , Shrek (2001) 
 http://144.217.70.79/VODS-M/1080P/Shrek%202001.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg"group-title="PELICULAS" type="movie" ,group-title="PELICULAS" Shrek 2 (2004) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg" type="movie" ,group-title="PELICULAS" Shrek 2 (2004) 
 http://144.217.70.79/VODS-M/1080P/Shrek%202%202004.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/n4SexGGQzI26E269tfpa80MZaGV.jpg"group-title="PELICULAS" type="movie" ,group-title="PELICULAS" Shrek The Third (2007) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/n4SexGGQzI26E269tfpa80MZaGV.jpg" type="movie" ,group-title="PELICULAS" Shrek The Third (2007) 
 http://144.217.70.79/VODS-M/1080P/Shrek%20The%20Third%202007.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6HrfPZtKcGmX2tUWW3cnciZTaSD.jpg" type="movie" ,group-title="PELICULAS" Shrek 4 (2010) 
@@ -2712,7 +2711,7 @@ http://144.217.70.79/VODS-M/1080P/Glory%201989.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xLXKYcmqJAdacWZy7enpMpiI4zw.jpg"group-title="PELICULAS" type="movie" , Point blank (2019) 
 http://144.217.70.79/VODS-M/1080P/Point%20blank%202019.mp4 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/z11Dd1r8BQhCLhLfRh1x5QuzMRw.jpg" type="movie" , Hide and Seek (2005) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/z11Dd1r8BQhCLhLfRh1x5QuzMRw.jpg" group-title="PELICULAS" type="movie" , Hide and Seek (2005) 
 http://144.217.70.79/VODS-M/1080P/Hide%20and%20Seek%202005.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hQSUwjSSRtWCA5EBoY22gGzaE8Y.jpg" group-title="PELICULAS" type="movie" , Wildlife (2018) 
@@ -2735,3 +2734,16 @@ http://144.217.70.79/VODS-M/1080P/211%202018.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/r15SUgzjL8bablcdEkHk9T7TSRl.jpg" group-title="PELICULAS" type="movie" , Escape plan the extractors movies (2019) 
 http://144.217.70.79/VODS-M/1080P/Escape%20plan%20the%20extractors%202019.mp4
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/vjAMj81oYBryzGBhJk4gcK0M636.jpg",Sombras de un crimen (2023) 
+https://archive.org/download/01_20230513/01.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/p1hH2FXEUHuY5kzm9bEBxEmdD8D.jpg",Linaje Oscuro (2022) 
+https://archive.org/download/01_20230513_202305/01.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pNYtkngatCVyDvbSkaYV2ZOr0lS.jpg",La madre (2023) 
+https://archive.org/download/01_20230512_20230512_2326/01.mp4
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqV0h_ZK47WmgqofBy4Jq62JtDRc2zAbgMj6lm4vmhA1oNLGM406vrhvAcShDWBXtotzs&usqp=CAU",HOMBRES DE NEGROS 
+https://rr3---sn-q4fl6nz6.c.drive.google.com/videoplayback?expire=1685156303&ei=jzlxZMehLNGApb0PgsKHqAY&ip=45.224.152.74&cp=QVRNV0JfVVNORFhPOmthODhQU29pbmh0MUJaMlN6WFpFSkFOX1FrRFpjODd2NFFvbjBwMGF3LXA&id=21f976f4ec79d7b1&itag=18&source=webdrive&requiressl=yes&sc=yes&ttl=transient&susc=dr&driveid=1D0K-860LHCPwxYaszjU804YlOI2YDacc&app=explorer&mime=video/mp4&vprv=1&prv=1&dur=6624.351&lmt=1660996036437279&subapp=DRIVE_WEB_FILE_VIEWER&txp=0011224&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRQIhAJdE3O46nfapOXVnkgjH1VNIi1xvf53seZeh7TpKs0N6AiBSBWhQdZHAtZIj0Nre29MQ8u9IFveRBkBO9gdxsrb1PQ==&cpn=X07xcigEX0wqDemQ&c=WEB_EMBEDDED_PLAYER&cver=1.20230523.01.00&redirect_counter=1&cm2rm=sn-cvbel7s&req_id=7312cec9dbeb36e2&cms_redirect=yes&cmsv=e&mh=Ie&mm=34&mn=sn-q4fl6nz6&ms=ltu&mt=1685138190&mv=m&mvi=3&pl=24&lsparams=mh,mm,mn,ms,mv,mvi,pl,sc&lsig=AG3C_xAwRgIhAIH89xCcDFSf-kdouXmztlDo4Nq4n1hUYSALUWqSUj-XAiEAnGawc7Gb8ixEFOF8D97ofUzeKSjpxLELt7hLfe-EY6Y%3D
+
