@@ -431,8 +431,11 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-canela-classics.jpg" group-title="CINE Y SERIES",CANELA CLÁSSICOS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 
-#EXTINF:-72 tvg-logo="https://i.postimg.cc/SRJQFrjC/CINE-LIFE.png" group-title="CINE Y SERIES", CINE LIFE
-https://magselect-stirr.amagi.tv/playlist720p.m3u8
+#EXTINF:-145 tvg-logo="https://pbs.twimg.com/profile_images/435932640722825216/hgILIL7X_400x400.jpeg" group-title="CINE Y SERIES", CINEMA
+https://stream.ads.ottera.tv/cl/230529chqi9hrmgp5280eqtnmg/854x480_1355200_2_f.m3u8
+
+#EXTINF:-72 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Clic_%28TV_channel%29_logo_2021.png" group-title="DOCUMENTALES", CLIC TV
+https://stream.ads.ottera.tv/cl/230529chqic3rmgp5280equb60/1280x720_3071200_0_f.m3u8
 
 #EXTINF:-72 tvg-logo="https://www.coolstreaming.us/img/ch/image96674211510.jpg" group-title="DEPORTES", Mas23 TV
 https://mediacp.us:8081/mas23tv/index.m3u8
@@ -711,7 +714,7 @@ https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream6/master.m
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="ESPAÑA",La2.TV
-https://ztnr.rtve.es/ztnr/1688885.m3u8
+https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main_dvr_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/pocoyo/picture?width=200&height=200" group-title="INFANTIL",PEQUERADIO
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
@@ -857,8 +860,17 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009
 #EXTINF:-1 group-title="CINE Y SERIES", Vix Cine Club
 https://linear-192.frequency.stream/192/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVQk_61t9XARvuvV2KkbmQxp3Kxgm0zc34dW2gk-_ZZEAD9Aw7Dh2yaWV12Wt17nEdzcA&usqp=CAU" group-title="COSTA RICA", CANAL 8
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+
+#EXTINF:-1 group-title="MEXICO", Adn40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
 #EXTINF:-1, CORDOVA
 https://streamer.zapitv.com/PTV_CORDOBA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/604/575/png-clipart-logo-caracol-television-colombia-caracol-tv-internacional-television-fecula-de-maiz-television-logo.png" group-title="COLOMBIA", CARACOL
+https://hls.goodgame.ru/manifest/202676_master.m3u8
 
 #EXTINF:-1, ABC TV
 https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
@@ -1361,7 +1373,7 @@ http://144.217.70.79/VODS-M/1080P/Spider-Man%202%202004.mkv
 #EXTINF:-1 tvg-logo="https://i.redd.it/al0kjt1iy4f91.png"group-title="PELICULAS" type="movie", Spider-Man (2002) 
 http://144.217.70.79/VODS-M/1080P/Spider-Man%202002.mkv 
 
-#EXTINF:-1 group-title="Pelis 2" tvg-logo="https://image.tmdb.org/t/p/w500/wlP25H14OvKoFORIwuKomZzioA5.jpg",¡Corre, Escóndete, Pelea! (2020) 
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/wlP25H14OvKoFORIwuKomZzioA5.jpg",¡Corre, Escóndete, Pelea! (2020) 
 https://tgdownloads.dltelegram.workers.dev/1001829780398/59922 
  
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wJkkkG4ditqNzlua0oJzoaICGiz.jpg"group-title="PELICULAS" type="movie", Dan en la vida real (2007) 
@@ -1801,7 +1813,7 @@ http://144.217.70.79/VODS-M/1080P/Lock%20Up%201989.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jPNmQq23eNbKFVPZnY5Kxc63MvW.jpg" group-title="PELICULAS" type="movie" , Chocolat (2016) 
 http://144.217.70.79/VODS-M/1080P/Chocolat%202016.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jloyGeVYZSxM9zsLFvVOWuj2ey4.jpg"group-title="PELICULAS" type="movie" , Battle Los Angeles (2011) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jloyGeVYZSxM9zsLFvVOWuj2ey4.jpg" group-title="PELICULAS" type="movie" , Battle Los Angeles (2011) 
 http://144.217.70.79/VODS-M/1080P/Battle%20Los%20Angeles%202011.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ld7YB9vBRp1GM1DT3KmFWSmtBPB.jpg" group-title="PELICULAS" type="movie" , The Addams Family (1991) 
@@ -2107,7 +2119,7 @@ http://144.217.70.79/VODS-M/1080P/Jurassic%20Park%20III%202001.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jElpCJkSaRPYwIMwZY28gOKV7BK.jpg" group-title="PELICULAS" type="movie" , Jurassic park II the lost world (1997) 
 http://144.217.70.79/VODS-M/1080P/Jurassic%20park%20II%20the%20lost%20world%201997.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wQ53sO5n9LCFbssV3oQ4CuajL1L.jpg"group-title="PELICULAS" type="movie" , Aliens (1986) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wQ53sO5n9LCFbssV3oQ4CuajL1L.jpg" group-title="PELICULAS" type="movie" , Aliens (1986) 
 http://144.217.70.79/VODS-M/1080P/Aliens%201986.mp4 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg"group-title="PELICULAS" type="movie" , Once Upon a Time in Hollywood (2019) 
@@ -2421,7 +2433,7 @@ http://144.217.70.79/VODS-M/1080P/X-men%20dark%20phoenix%202019.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/h2ZZCMf0aNMOmRK7P7ZuaVyBis6.jpg" type="movie"group-title="PELICULAS" , Ma ROSA (2019) 
 http://144.217.70.79/VODS-M/1080P/Ma%202019.mp4 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/E9rJ8G6RepClgFZ9DR0GsKO3n6.jpg" type="movie" , Beats (2019) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/E9rJ8G6RepClgFZ9DR0GsKO3n6.jpg" type="movie"group-title="PELICULAS" , Beats (2019) 
 http://144.217.70.79/VODS-M/1080P/Beats%202019.mp4 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7KHz6JlJhrFAPesmUkgdnLrSr8Y.jpg" type="movie"group-title="PELICULAS" , War Horse (2011) 
@@ -2436,7 +2448,7 @@ http://144.217.70.79/VODS-M/1080P/Jeremiah%20Johnson
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/beDWEWxgFlt1UWvf2al9cjDol2i.jpg" type="movie"group-title="PELICULAS" , Mission to Mars (2000) 
 http://144.217.70.79/VODS-M/1080P/Mission%20to%20Mars%202000.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/waaPtmhVFgieG021OwoEPTkbltI.jpg" type="movie" , Invader zim enter the florpus (2019) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/waaPtmhVFgieG021OwoEPTkbltI.jpg" type="movie"group-title="PELICULAS" , Invader zim enter the florpus (2019) 
 http://144.217.70.79/VODS-M/1080P/Invader%20zim%20enter%20the%20florpus%202019.mp4 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7IRy0iHdaS0JI3ng4ZYlk5gLSFn.jpg" type="movie"group-title="PELICULAS" , Descendants 3 (2019) 
