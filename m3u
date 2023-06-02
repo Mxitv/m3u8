@@ -401,10 +401,10 @@ https://panel.tvstream.cl:1936/8034/8034/chunklist_w1244170437.m3u8?WebM3UCL
 #EXTINF:-134 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR6pwd4ddbpHbDaa0U1Xhk_RiikwmFDXc5Y9nhps4Za0F-6CCVxLAKxp542lW34Kg151Y&usqp=CAU" group-title="ECUADOR", INFINITA TV | HD
 https://s2.tvdatta.com:3753/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ecuador_TV.jpg" group-title="ECUADOR", ECUADOR TV| HD
+#EXTINF:-135 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ecuador_TV.jpg" group-title="ECUADOR", ECUADOR TV| HD
 https://customer-qczi39xffvq35rae.cloudflarestream.com/f41c1d91e17809daf3bc4a6c212680b7/manifest/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image5883637955.webp" group-title="MEXICO", MIAMI TV| HD
+#EXTINF:-136 tvg-logo="https://www.coolstreaming.us/img/ch/image5883637955.webp" group-title="MEXICO", MIAMI TV| HD
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/variedtv_320.jpg" group-title="INFANTIL", Varied Tv | HD
@@ -899,8 +899,8 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1, CORDOVA
 https://streamer.zapitv.com/PTV_CORDOBA/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/604/575/png-clipart-logo-caracol-television-colombia-caracol-tv-internacional-television-fecula-de-maiz-television-logo.png" group-title="COLOMBIA", CARACOL
-https://hls.goodgame.ru/manifest/202676_master.m3u8
+#EXTINF:-301 tvg-logo="https://e7.pngegg.com/pngimages/604/575/png-clipart-logo-caracol-television-colombia-caracol-tv-internacional-television-fecula-de-maiz-television-logo.png" group-title="COLOMBIA", CARACOL
+https://pt2.hlsserver.online/static/streaming-playlists/hls/private/38451680-e1c0-42e7-8896-5c385e656a1a/master.m3u8
 
 #EXTINF:-1, ABC TV
 https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
