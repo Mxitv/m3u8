@@ -2861,5 +2861,32 @@ https://archive.org/download/01_20230422_20230422_1858/01.mp4
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/4EbeUgW9V5X4fabqWejxSZa4wtC.jpg",Crímenes En Chinatown 
 https://archive.org/download/01_20230419_20230419_1553/01.mp4 
 
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ra3xm8KFAkwK0CdbPRkfYADJYTB.jpg",Chupa (2023) 
-https://archive.org/download/01_20230409_20230409/01.mp4
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",Spider-Man: A través del Spider-Verso (2023) 
+https://archive.org/download/01_20230602_20230602/01.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",Spider-Man: Cruzando el Multiverso (2023) (CAM) 
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fjunn%2FVer%20Spider-Man-%20Cruzando%20el%20multiverso%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//2axXVpi3dKfESWzgncbakLB7o7f.jpg",La princesa cisne 
+http://208.88.245.85/nuevo/princesa.cisne.2023dual.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//lXoeOcWWhPpLH1wzTIhOx8jydBo.jpg",Ellas quieren más 
+http://208.88.245.85/nuevo/cuando.ellasquierenmas.2023dual.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//nRVnpz4dzRvknK0BANjJ76dP0D3.jpg",Big Mack gangsters 
+http://208.88.245.85/nuevo/bigmack.gangstersyoro.2023dual.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//gwVAb3hMYl5F68mvKGl2eqDOj0G.jpg",Tin y tina 
+http://208.88.245.85/nuevo/tin.tina.2023.cast.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg",La sirenita 
+http://208.88.245.81/nuevo/la.sirenita.2023dual.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo=",El último vagón ",El último vagón (2023) 
+https://archive.org/download/01_20230602_20230602_2139/01.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//gwVAb3hMYl5F68mvKGl2eqDOj0G.jpg",Tin y Tina (2023) 
+https://archive.org/download/01_20230602_20230602_2101/01.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//2lEyzOq6ILNgBpLLpTRckQhbNNt.jpg",Sword Art Online, la pelicula 
+https://archive.org/download/01_20230602_20230602_1944/01.mp4
