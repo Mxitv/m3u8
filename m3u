@@ -418,51 +418,6 @@ https://cloudvideo.servers10.com:8081/8124/index.m3u8
 
 #EXTINF:-139 tvg-logo="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/04/bolivision.png" group-title="BOLIVIA", BOLIVISION | HD
 https://nedbolivision.akamaized.net/hls/live/2101283/bolivision/master.m3u8
- 
-#EXTINF:-1 tvg-shift="-3" group-title="CINE Y SERIES",FX 
-http://bgtv.site/play/23-644.php?a=70&token=blackghostthis 
-
-#EXTINF:-1 tvg-shift="-3" group-title="INFANTIL",Discovery Kids 
-http://bgtv.site/play/23-644.php?a=210&token=blackghostthis
- 
-#EXTINF:-140 tvg-shift="-3" group-title="CINE Y SERIES",A y E 
-http:// bgtv.site/play/23-644.php?a=178&token=blackghostthis 
- 
-#EXTINF:-141 tvg-shift="-3" group-title="DOCUMENTALES",Animal Planet 
-http://bgtv.site/play/23-644.php?a=75&token=blackghostthis  
- 
-#EXTINF:-1 tvg-shift="-3" group-title="INFANTIL",Baby First 
-http://bgtv.site/play /23-644.php?a=150&token=blackghostthis 
- 
-#EXTINF:-1 tvg-shift="-3" group-title="COLOMBIA",CO: Caracol 
-http://bgtv.site/play/23-644.php?a=157&token=blackghostthis 
-
-#EXTINF:-1 tvg-shift="-3" group-title="COLOMBIA", CO: Caracol Op2 
-http://bgtv.site/play/23-644.php?a=226&token=blackghostthis 
-
-#EXTINF:-1 tvg-shift="-3" group-title="CINE Y SERIES",ES: Antena 3 
-http://bgtv.site/play/23-644.php?a=96&token=blackghostthis 
-
-#EXTINF:-1 tvg-shift="-3" group-title="CINE SERIES",ES: Movistar Drama 
-http://bgtv.site/play/23-644.php?a=146&token=blackghostthis 
-
-#EXTINF: -1 tvg-shift="-3" group-title="DEPORTES",ESPN 2 MX 
-http://bgtv.site/play/23-644.php?a=36&token=blackghostthis 
-
-#EXTINF:-1 tvg- shift="-3" group-title="DEPORTES",FOX (EE. UU.) 
-http://bgtv.site/play/23-644.php?a=168&token=blackghostthis 
-
-#EXTINF:-1 tvg-shift=" -3" group-title="DEPORTES",Fox Deportes 
-http://bgtv.site/play/23-644.php?a=38&token=blackghostthis 
-
-#EXTINF:-1 tvg-shift="-3" group- title="DEPORTES",Fox Premium 
-http://bgtv.site/play/23-644.php?a=69&token=blackghostthis 
-
-#EXTINF:-1 tvg-shift="-3" group-title="DEPORTES",Fox Sport 2 (EE. UU.) 
-http://bgtv.site/play/23-644.php ?a=222&token=blackghostthis 
-
-#EXTINF:-1 tvg-shift="-3" group-title="DEPORTES",Fox Sports 1 MX 
-http://bgtv.site/play/23-644.php?a= 40&token=blackghostthis 
 
 #EXTINF:-72 tvg-logo="https://i.postimg.cc/d09Gv5rr/MYTIME.png" group-title="CINE Y SERIES", MY TIME MOVIES
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
@@ -957,7 +912,7 @@ https://www-bup37673.ssl0d.com/hls2/ChCNETYAgb-0UuMtDGNXKQ/1675831799/SsldVlMaFw
 https://www-xrm65778.ssl0d.com/hls2/bE4pdxtJs1th3-cAEODQ7g/1675835152/SsldVlMaFwSzCERAq5Mw-Ol4YOdmmum-0xUSKvvjkZs/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Viuda_negra-372790622-large.jpg"type=" movie" group-title="PELICULAS",Viuda Negra movies  | SD
-https://cloclo58.cloud.mail.ru/videowl/360p_1/NW9rci9GaFFOUEExOHI=.m3u8?double_encode=1            
+https://cloclo52.cloud.mail.ru/videowl/720p_1/NW9rci9GaFFOUEExOHI=.m3u8?double_encode=1            
              
 #EXTINF:-1 tvg-id="HD(HANSEL Y GRETEL).eu" tvg-name="HANSEL Y GRETEL (HD)" tvg-logo="https://es.web.img3.acsta.net/c_310_420/medias/nmedia/18/93/21/74/20333302.jpg" type="movie" group-title="PELICULAS",Hansel y Grete movies| (HD
 https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_jsaw4vy3/format/applehttp/protocol/https/flavorIds/1_5km6q5i6,1_t72olw41,1_dwilknyq,1_ngdt4ja6,1_vlcpc7up,1_hlhjmtcj/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1672242841&amp;id=2926&amp;ip=157.100.59.47&amp;override_expiration=1500&amp;sign=oAttZ5UiwSkHsPY8ipnJjFZXv4Y9ETkaFZwKltJbMio%3D&amp;playSessionId=70be76fc-fa33-4fac-fd1d-25f4614f0eef:3a58afe0-e9c1-ae0d-b305-5cf29be74a1c&amp;referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9lcy9mZWF0dXJlL2hhbnNlbC15LWdyZXRlbA==&amp;clientTag=html5:v7.56
@@ -2889,4 +2844,6 @@ https://archive.org/download/01_20230602_20230602_2139/01.mp4
 https://archive.org/download/01_20230602_20230602_2101/01.mp4 
 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//2lEyzOq6ILNgBpLLpTRckQhbNNt.jpg",Sword Art Online, la pelicula 
-https://archive.org/download/01_20230602_20230602_1944/01.mp4
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//gPbM0MK8CP8A174rmUwGsADNYKD.jpg", 0 Transformers: El despertar de las bestias 
+https://archive.org/download/01_20230609_202306/01.mp4
