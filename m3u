@@ -357,7 +357,7 @@ https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4830&amp;avod=1&amp;coppa=0&amp;is_lat=0&amp;dnt=0&amp;us_privacy=1YN-&amp;did=e4ce72c53dd087e8c9bcf30074bacd21&amp;app_bundle=com.tvazteca.live&amp;app_store_url=https%3A%2F%2Fwww.ottera.tv%2Fdevices&amp;app_domain=ottera.tv&amp;app_name=tvazteca&amp;custom_targeting=web&amp;custom_4=internal&amp;h=720&amp;w=1280&amp;content_channel=tvazteca&amp;content_dist_name=internal&amp;device_make=&amp;device_model=&amp;preferred_language=EN&amp;consent=1&amp;gdpr=0&amp;custom_12=0&amp;custom_15=es&amp;custom_16=EN&amp;custom_17=en&amp;site_page=ottera.tv&amp;gender=not_specified&amp;yob=0&amp;livestream=1&amp;custom_param_1=desktop&amp;custom_param_4=internal&amp;custom_param_5=web&amp;custom_param_6=South%20America&amp;custom_param_0=&amp;custom_param_2=&amp;custom_param_3=
 
 #EXTINF:-120 tvg-logo="https://tctelevision.nyc3.digitaloceanspaces.com/Archivos/logos/TC_Logo.png" group-title="ECUADOR", TC ECU | SD
-https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl043ocUt1SNiegKnU1qvLOxJPwRBgMosN3OCYctNqeZq)/dm/3/x7wijay/s/live-2.m3u8
+https://youvideostreaming.club/hls/ecutv3.m3u8
 
 #EXTINF:-121 group-title="RELIGIÓN" , EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
@@ -3068,4 +3068,57 @@ https://main.cinedecalidad.xyz/mexicanas/megalodon2.mp4
 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//4m1Au3YkjqsxF8iwQy0fPYSxE0h.jpg",Megalodón 2: El gran abismo (2023) 
 https://archive.org/download/01_20230804_20230804_1500/01.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//e7CKgRnRdE7bk1jl2vhJniX89cU.jpg",Al descubierto Johnn football 
+http://208.88.245.85/nuevo/al.descubierto.johnnyfootball.dual2023.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//liVS0KJMviz4iOfbrZkLqdCzBIp.jpg",Zoey 102 la boda 
+http://208.88.245.85/nuevo/zoey102.laboda.dual2023.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//lFDPyo6mdooNcHvgy17gz1GEjg4.jpg",Snoopy presenta 
+http://208.88.245.85/nuevo/snoopypresenta.launicaeinigualable.marcie.dual2023.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//q17tXNROOslj7uCGicKNlIf9Rx6.jpg",Princesas lego Disney aventuras 
+http://208.88.245.85/nuevo/castle.quest.legodisney.princes.dual2023.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//4m1Au3YkjqsxF8iwQy0fPYSxE0h.jpg",Meg 2 el gran abismo 
+http://208.88.245.85/nuevo/meg2.el.gran.abismo.dual2023.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//gvtMN1IWBqqPYYlPy2saWaPbmP9.jpg",Blue Beetle (2023) CAM 
+https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fagosto%2FWatch%20Blue%20Beetle%202023%201080p%20CAMRip%20LAT%20DUB%20mp4.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//gvtMN1IWBqqPYYlPy2saWaPbmP9.jpg",Blue Beetle 
+https://archive.org/download/01_20230818/01.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/pZyeoBDQJFPGfd0Mu8XIElGBjZz.jpg",Cuando termines de salvar al mundo 
+http://208.88.245.85/nuevo/cuando.termines.dsalvar.almundo.2023dual.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/p4U0DQdxK7VeFImi2gzFKhe1JuB.jpg",Los habitantes 
+http://208.88.245.85/nuevo/los.habitantes.2023.latino.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/qMgx4ofxWNqgXliRyXGXImoA7vX.jpg",Dime lo que quieres 
+http://208.88.245.85/nuevo/dime.lo.que.quieras.latino.2023.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/6qpYwWq6KxuLTjmLfBVcGtjdz4g.jpg",Divina señal 
+http://208.88.245.85/nuevo/divina.senal.latino2023.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",Oppen heimer 
+http://208.88.245.85/nuevo/oppenheimer.2023.dual.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/wve9qIZ8pXrDpHy1h47cGXHjZpH.jpg",Los 3 mosqueteros dartagnan 
+http://208.88.245.85/nuevo/los.tres.mosqueteros.dartagnan.dual2023.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/4K7gQjD19CDEPd7A9KZwr2D9Nco.jpg",Hazme el favor 
+http://208.88.245.85/nuevo/hazme.el.favor.dual2023.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/vB8o2p4ETnrfiWEgVxHmHWP9yRl.jpg",Agente Stone 
+http://208.88.245.85/nuevo/agentestone.dual2023.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/995t1sb4ummXHBfKlXLSM1IAEjc.jpg",Fisrt solamente dunk 
+http://208.88.245.85/nuevo/firstslamdunk.dual.2023.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/3gFtw4w2bIUYKWOrmBgfI6iXfmZ.jpg",Mansión embrujada 
+http://208.88.245.85/nuevo/mansion.embrujada.dual2023.mkv 
+
+
 
